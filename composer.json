@@ -1,4 +1,6 @@
 {
+    "name": "geoffroycol/games",
+    "description": "site de jeux vidéos",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
